@@ -1,2 +1,3 @@
 <details><summary>Using Git</summary>
-  [About Git](https://docs.github.com/en/get-started/using-git/about-git)
+  <summary>About Git</summary>
+  (https://docs.github.com/en/get-started/using-git/about-git)
