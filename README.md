@@ -1,3 +1,3 @@
 <details><summary>Using Git</summary>
-  <summary>About Git</summary>
-  (https://docs.github.com/en/get-started/using-git/about-git)
+  <details><summary>:white_check_mark:About Git</summary>
+    https://docs.github.com/en/get-started/using-git/about-git
