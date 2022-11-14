@@ -1,10 +1,13 @@
-```mermaid 
-flowchart LR
-    A-->B
-    B-->C
-    C-->D
-    click A callback "Tooltip for a callback"
-    click B "https://www.github.com" "This is a tooltip for a link"
-    click A call callback() "Tooltip for a callback"
-    click B href "https://www.github.com" "This is a tooltip for a link"
+```mermaid
+
+    flowchart LR;
+    
+    subgraph mdn web docs_
+        id1((Getting started with the web))
+        end
+        id1 --- id2([Installing basic software])
+        id1 --- id3([fa:fa-spinner What will your website look like?])
+        id1 --- id4([Dealing with files])
+        id1 --- id5([HTML basics])
+
 ```
