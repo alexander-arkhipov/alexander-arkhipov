@@ -8,8 +8,12 @@
         id1 --- id2([ Installing basic software])
         id1 --- id3([fa:fa-spinner What will your website look like?])
         id1 --- id4([Dealing with files])
-        id1 -. 37% .- id5([HTML basics])
+        id5([HTML basics]) -. 37% .- id1
+        id6([JavaScript basics]) --- id1
+        id7([Publishing your website]) --- id1
+        id8([How the web works]) --- id1
         
+        style id1 fill:#FFFFFF, stroke:#2874A6,stroke-width:2px
         style id2 fill:#FFFFFF, stroke:#DAF7A6,stroke-width:2px
         style id3 fill:#FFFFFF, stroke:#DAF7A6,stroke-width:2px
         style id4 fill:#FFFFFF, stroke:#DAF7A6,stroke-width:2px
