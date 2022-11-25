@@ -1,10 +1,12 @@
+<details>
+    <summary> mdn_ web docs </summary>
+
 ```mermaid
 
     flowchart LR;
-    
-    subgraph mdn_ web docs
+     
         id1((Getting started with the web))
-        end
+        
         id1 --- id2([ Installing basic software])
         id1 --- id3([What will your website look like?])
         id1 --- id4([Dealing with files])
@@ -23,3 +25,15 @@
         style id8 fill:#FAFAFA, stroke:#F5F5F5,stroke-width:2px
         
 ```
+
+</details>    
+    
+<details>
+    <summary> GitHub Flavored Markdown Spec </summary>
+    1. Introduction
+    1.1 What is GitHub Flavored Markdown?
+    1.2 What is Markdown?
+    1.3 Why is a spec needed?
+   
+   
+</details>
